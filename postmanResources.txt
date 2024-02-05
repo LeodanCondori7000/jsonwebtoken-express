@@ -1,0 +1,74 @@
+products:
+{
+    "name":"laptop lenovo",
+    "category":"laptops",
+    "price":999.99,
+    "imgURL":"https://e7.pngegg.com/pngimages/398/672/png-clipart-gray-acer-laptop-laptop-laptop-notebook-electronics-gadget-thumbnail.png"
+}
+{
+    "name":"laptop razer",
+    "category":"laptops",
+    "price":1000.99,
+    "imgURL":"https://toppng.com/uploads/preview/laptop-png-11539906633uym6sobpwj.png"
+}
+{
+    "name":"laptop hp",
+    "category":"laptops",
+    "price":999.99,
+    "imgURL":"https://png.pngtree.com/png-vector/20191026/ourmid/pngtree-laptop-icon-png-image_1871608.jpg"
+}
+
+register users:
+{
+  "username":"fazt",
+  "email":"fazt@faztweb.com",  
+  "password":"password"
+}
+{
+  "username":"leo",
+  "email":"leo@mail.com",  
+  "password":"secret"
+}
+{
+  "username":"Joe",
+  "email":"joe@ibm.com",  
+  "password":"secret"
+}
+{
+  "username":"Dona",
+  "email":"dona@ibm.com",  
+  "password":"password"
+}
+{
+  "username":"John",
+  "email":"john@ibm.com",  
+  "password":"password"
+}
+{
+  "username":"Jesus",
+  "email":"jesus@ibm.com",  
+  "password":"password"
+}
+{
+  "username":"Maria",
+  "email":"maria@google.com",  
+  "password":"password"
+}
+{
+  "username":"Ryan",
+  "email":"ryan@ibm.com",  
+  "password":"password",
+  "roles":["admin","moderator"]
+}
+{
+  "username":"Joe mcmillan",
+  "email":"joe@google.com",  
+  "password":"password",
+  "roles":["admin","moderator"]
+}
+
+sign in users:
+{
+  "email":"joe@google.com",  
+  "password":"password"
+}
